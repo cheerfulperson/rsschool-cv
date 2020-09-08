@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cheerfulperson.github.io/rsschool-cv/
