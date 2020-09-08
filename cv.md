@@ -1,4 +1,4 @@
-1. Egor, Borodavkin (real ones)
+1. Egor, Borodavkin
 2. gmail:yagor.baradavkin@gmail.com 
 3. I want to become a good progrmmer, i like improve my skill and learn something new.
 4. Skills: language:js,c++,java(basic),nodejs:react,express,vue and so on.
